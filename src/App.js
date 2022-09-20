@@ -4,7 +4,7 @@ import { Box } from '@mui/material';
 
 function App() {
   return (
-    <BrowserRouter>Hello
+    <BrowserRouter>
       <Box sx={{backgroundColor: 'pink'}}>
         <Navbar />
         <Routes>
